@@ -32,32 +32,3 @@ Focused on systems infrastructure, Microsoft 365, networking, cybersecurity, Lin
     </td>
   </tr>
 </table>
-
-
-
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-## Focus
-
-- Systems infrastructure
-- Microsoft 365 administration
-- Networking and secure access
-- Linux server administration
-- Automation and documentation
-
-    </td>
-    <td width="50%" valign="top">
-
-## Featured Work
-
-- Linux-based WordPress hosting setup
-- Self-hosted Docker infrastructure
-- WireGuard and Proxmox documentation
-- Network and security visual references
-
-    </td>
-  </tr>
-</table>
